@@ -1,0 +1,25 @@
+# Dependências
+/node_modules
+
+# Arquivos de log
+yarn-error.log
+yarn-debug.log
+*.log
+
+# Arquivos de configuração do editor e arquivos de ambiente
+/.vscode
+/.idea
+*.env
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos de configuração do Prettier
+prettier.config.js
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
+
+# Pasta de build (se você tiver uma, por exemplo, dist ou build)
+/dist
+/build
